@@ -1,0 +1,21 @@
+users
+	avatar
+	id
+	username
+	password
+
+thread
+	list
+		comment
+			user
+			reply button
+		comment
+			comment-reply
+
+add-comment
+	login
+		username
+		password
+	textarea
+	submit button
+
